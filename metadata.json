@@ -1,0 +1,6 @@
+{
+  "name": "PodoAssist",
+  "description": "Comprehensive Diabetic Foot Health & Podiatry Care Assistant with daily risk checklists, provider locator, clinical AI assistant, and patient-doctor telehealth records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

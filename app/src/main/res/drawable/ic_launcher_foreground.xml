@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="18"
+        android:translateY="18">
+        <!-- Stylized Foot Silhouette & Brush Stroke Base -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M36,4 C22,4 12,14 12,28 C12,46 32,58 36,68 C40,58 60,46 60,28 C60,14 50,4 36,4 Z" />
+        
+        <!-- Inner Medical Cross -->
+        <path
+            android:fillColor="#004D40"
+            android:pathData="M33,18 L39,18 L39,26 L47,26 L47,32 L39,32 L39,40 L33,40 L33,32 L25,32 L25,26 L33,26 Z" />
+        
+        <!-- Brush Stroke Dynamic Arc -->
+        <path
+            android:fillColor="#80CBC4"
+            android:pathData="M36,46 C32,46 22,50 18,56 C24,53 32,51 36,51 C40,51 48,53 54,56 C50,50 40,46 36,46 Z" />
+            
+        <!-- Small Vital Dot -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M36,12m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    </group>
+</vector>

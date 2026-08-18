@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Soft Teal Glow -->
+    <path
+        android:fillColor="#1A00897B"
+        android:pathData="M60,60m-50,0a50,50 0 1,0 100,0a50,50 0 1,0 -100,0" />
+
+    <!-- Brush Stroke Outer Foot Silhouette -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M38,22 C22,34 24,72 58,88 C82,98 94,84 90,66 C86,48 96,30 78,20 C64,12 48,14 38,22 Z" />
+
+    <!-- Inner Medical Health Cross Cutout / Highlight -->
+    <path
+        android:fillColor="#00BFA5"
+        android:pathData="M54,42 L66,42 L66,52 L76,52 L76,64 L66,64 L66,74 L54,74 L54,64 L44,64 L44,52 L54,52 Z" />
+
+    <!-- Golden Highlight Dot -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M80,32m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+</vector>
